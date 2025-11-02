@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wy0BGbd7EI=",
+  "success": true,
+  "projectFilePath": "D:\\КПЗ\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\RestaurantManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\riok.mapperly\\4.2.1\\riok.mapperly.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

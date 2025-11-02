@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\controls\\statusindicator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controls\\statusindicator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\viewmodels\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\styles\\datagridstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\styles\\datagridstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\views\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\menuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\controls\\statusindicator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\controls\\statusindicator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\converters\\booltostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\converters\\booltostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\mappers\\restaurantmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\mappers\\restaurantmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\views\\ordersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\ordersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\views\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\views\\menuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|d:\\\u043A\u043F\u0437\\labs\\lab2\\restaurantmanagement\\restaurantmanagement\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0327E70F-F2A0-48EB-BD13-B8FBC883B526}|RestaurantManagement\\RestaurantManagement.csproj|solutionrelative:restaurantmanagement\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusIndicator.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Controls\\StatusIndicator.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Controls\\StatusIndicator.xaml.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Controls\\StatusIndicator.xaml.cs*",
+              "RelativeToolTip": "RestaurantManagement\\Controls\\StatusIndicator.xaml.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:11:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "orders.json",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json",
+              "RelativeDocumentMoniker": "RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json",
+              "RelativeToolTip": "RestaurantManagement\\bin\\Debug\\net8.0-windows\\orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T14:35:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\MainWindow.xaml",
+              "RelativeToolTip": "RestaurantManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:06:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusIndicator.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Controls\\StatusIndicator.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Controls\\StatusIndicator.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Controls\\StatusIndicator.xaml",
+              "RelativeToolTip": "RestaurantManagement\\Controls\\StatusIndicator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:10:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Services\\DataService.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Services\\DataService.cs",
+              "RelativeToolTip": "RestaurantManagement\\Services\\DataService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:15:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersViewModel.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\OrdersViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\OrdersViewModel.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\OrdersViewModel.cs",
+              "RelativeToolTip": "RestaurantManagement\\ViewModels\\OrdersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:14:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuView.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\MenuView.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\MenuView.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\MenuView.xaml",
+              "RelativeToolTip": "RestaurantManagement\\Views\\MenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:18:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataGridStyles.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Styles\\DataGridStyles.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Styles\\DataGridStyles.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Styles\\DataGridStyles.xaml",
+              "RelativeToolTip": "RestaurantManagement\\Styles\\DataGridStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:57:53.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersView.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\OrdersView.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\OrdersView.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\OrdersView.xaml",
+              "RelativeToolTip": "RestaurantManagement\\Views\\OrdersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:17:47.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Models\\Order.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantManagement\\Models\\Order.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:07:44.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\MenuViewModel.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\MenuViewModel.cs",
+              "RelativeToolTip": "RestaurantManagement\\ViewModels\\MenuViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:14:44.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\App.xaml",
+              "RelativeDocumentMoniker": "RestaurantManagement\\App.xaml",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\App.xaml",
+              "RelativeToolTip": "RestaurantManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T11:18:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "RestaurantManagement\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:13:56.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Converters\\NullToVisibilityConverter.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "RestaurantManagement\\Converters\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:20:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoolToStatusConverter.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Converters\\BoolToStatusConverter.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Converters\\BoolToStatusConverter.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Converters\\BoolToStatusConverter.cs",
+              "RelativeToolTip": "RestaurantManagement\\Converters\\BoolToStatusConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:08:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantManagement\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:08:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestaurantMapper.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Mappers\\RestaurantMapper.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Mappers\\RestaurantMapper.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Mappers\\RestaurantMapper.cs",
+              "RelativeToolTip": "RestaurantManagement\\Mappers\\RestaurantMapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:09:15.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "RestaurantManagement\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:12:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:06:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdersView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\OrdersView.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\OrdersView.xaml.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\OrdersView.xaml.cs",
+              "RelativeToolTip": "RestaurantManagement\\Views\\OrdersView.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:19:27.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\MenuView.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\Views\\MenuView.xaml.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\Views\\MenuView.xaml.cs",
+              "RelativeToolTip": "RestaurantManagement\\Views\\MenuView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:19:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurantManagement\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\\u041A\u041F\u0417\\labs\\lab2\\RestaurantManagement\\RestaurantManagement\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "RestaurantManagement\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:13:39.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

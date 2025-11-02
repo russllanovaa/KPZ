@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 2,
+    "CustomerName": "\u0414\u0430\u044F\u043D\u0430 \u041D\u043E\u0439\u043D\u0438\u0446\u044C",
+    "OrderDate": "2025-11-02T15:46:43.3475775+02:00",
+    "TotalAmount": 320,
+    "Status": "Preparing"
+  },
+  {
+    "Id": 3,
+    "CustomerName": "\u0406\u043B\u043B\u044F \u0411\u0430\u0431\u0438\u0447",
+    "OrderDate": "2025-11-02T15:46:43.3475813+02:00",
+    "TotalAmount": 280,
+    "Status": "Pending"
+  },
+  {
+    "Id": 4,
+    "CustomerName": "\u0422\u0430\u043C\u0456\u043B\u0430 \u0406\u0432\u0430\u0441\u044C\u043A\u0435\u0432\u0438\u0447",
+    "OrderDate": "2025-11-02T15:46:47.6323263+02:00",
+    "TotalAmount": 550,
+    "Status": "Pending"
+  },
+  {
+    "Id": 5,
+    "CustomerName": "\u041D\u043E\u0432\u0438\u0439 \u043A\u043B\u0456\u0454\u043D\u0442",
+    "OrderDate": "2025-11-02T16:21:44.5751442+02:00",
+    "TotalAmount": 0,
+    "Status": "Completed"
+  }
+]
